@@ -19,7 +19,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 var app = builder.Build();
 
 //definir os endpoints
-app.MapGet("/", () => "Catálogo de Produtos - 2022").ExcludeFromDescription();
+app.MapGet("/", () => "Api is Running").ExcludeFromDescription();
 
 app.MapPost("/categorias", async (Categoria categoria, AppDbContext db)
  => {
