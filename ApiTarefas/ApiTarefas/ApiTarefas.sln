@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTarefas", "ApiTarefas\ApiTarefas.csproj", "{21C873DA-00DE-4631-8BF5-342FE96869EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21C873DA-00DE-4631-8BF5-342FE96869EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C873DA-00DE-4631-8BF5-342FE96869EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C873DA-00DE-4631-8BF5-342FE96869EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C873DA-00DE-4631-8BF5-342FE96869EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D211BF2-5A77-4149-9C29-11CC75D9699C}
+	EndGlobalSection
+EndGlobal

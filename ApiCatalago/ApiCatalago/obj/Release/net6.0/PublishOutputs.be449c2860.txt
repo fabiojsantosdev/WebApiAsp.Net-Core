@@ -1,0 +1,17 @@
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\ApiCatalago.exe
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\ApiCatalago.dll
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\ApiCatalago.runtimeconfig.json
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\ApiCatalago.pdb
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\MySqlConnector.dll
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalago\ApiCatalago\obj\Release\net6.0\PubTmp\Out\ApiCatalago.deps.json
