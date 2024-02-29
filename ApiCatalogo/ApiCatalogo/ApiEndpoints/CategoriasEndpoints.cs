@@ -39,7 +39,7 @@ namespace ApiCatalogo.ApiEndpoints
 
                 var categoriaDB = await db.Categorias.FindAsync(id);
 
-                if (categoriaDB is null) return Results.NotFound();
+                if (categoriaDB is null) return Results.NotFound("Categoria não localizada!");
 
                 categoriaDB.Nome = categoria.Nome;
                 categoriaDB.Descricao = categoria.Descricao;
