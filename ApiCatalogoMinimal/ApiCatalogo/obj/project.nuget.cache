@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xj9d9taPMLRuQ9Rr5gNHnH0keZ/umLO3Rvjl9nKjqeOE8C6y2NDR8OMH3lVufm/3VAVMhlNZStLPMUZTPqescA==",
+  "dgSpecHash": "q14/PK7xYmwJk7vex5GZLlDKjF+5trfxNPcCnCO2ftn+IWEV+UBsXLUCEbr0LnQ0NHu6wuegeJ2kQE+B7sBk/Q==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Cursos\\Curso DotNet6 C#\\ApiCatalogoMinimal\\ApiCatalogo\\ApiCatalogo.csproj",
+  "projectFilePath": "C:\\Dev\\Cursos\\WebApiAsp.Net-Core\\ApiCatalogoMinimal\\ApiCatalogo\\ApiCatalogo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fabio.santos\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\fabio.santos\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",

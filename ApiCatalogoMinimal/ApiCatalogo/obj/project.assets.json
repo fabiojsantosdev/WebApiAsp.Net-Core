@@ -995,19 +995,21 @@
   },
   "packageFolders": {
     "C:\\Users\\fabio.santos\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Cursos\\Curso DotNet6 C#\\ApiCatalogoMinimal\\ApiCatalogo\\ApiCatalogo.csproj",
+      "projectUniqueName": "C:\\Dev\\Cursos\\WebApiAsp.Net-Core\\ApiCatalogoMinimal\\ApiCatalogo\\ApiCatalogo.csproj",
       "projectName": "ApiCatalogo",
-      "projectPath": "C:\\Dev\\Cursos\\Curso DotNet6 C#\\ApiCatalogoMinimal\\ApiCatalogo\\ApiCatalogo.csproj",
+      "projectPath": "C:\\Dev\\Cursos\\WebApiAsp.Net-Core\\ApiCatalogoMinimal\\ApiCatalogo\\ApiCatalogo.csproj",
       "packagesPath": "C:\\Users\\fabio.santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Cursos\\Curso DotNet6 C#\\ApiCatalogoMinimal\\ApiCatalogo\\obj\\",
+      "outputPath": "C:\\Dev\\Cursos\\WebApiAsp.Net-Core\\ApiCatalogoMinimal\\ApiCatalogo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\fabio.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1072,7 +1074,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

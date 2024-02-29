@@ -71,3 +71,42 @@ C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\r
 C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.pdb
 C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.genruntimeconfig.cache
 C:\Dev\Cursos\Curso DotNet6 C#\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ref\ApiCatalogo.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\appsettings.Development.json
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\appsettings.json
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.exe
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.deps.json
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.runtimeconfig.json
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\ApiCatalogo.pdb
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\Humanizer.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\MySqlConnector.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.csproj.AssemblyReference.cache
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.AssemblyInfoInputs.cache
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.AssemblyInfo.cs
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.csproj.CoreCompileInputs.cache
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\staticwebassets\msbuild.ApiCatalogo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiCatalogo.props
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiCatalogo.props
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiCatalogo.props
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\staticwebassets.build.json
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\staticwebassets.development.json
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\scopedcss\bundle\ApiCatalogo.styles.css
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.csproj.CopyComplete
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\refint\ApiCatalogo.dll
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.pdb
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ApiCatalogo.genruntimeconfig.cache
+C:\Dev\Cursos\WebApiAsp.Net-Core\ApiCatalogoMinimal\ApiCatalogo\obj\Debug\net6.0\ref\ApiCatalogo.dll
